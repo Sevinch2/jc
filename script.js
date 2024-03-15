@@ -1,34 +1,26 @@
 var name = prompt("Ismingizni kiriting")
-alert(name)
+console.log("Ismingizni kiriting")
+
+
 var name = prompt("Yoshingizni kiriting")
+console.log("Yoshingizni kiring")
+
+var name = prompt("10+5")
 alert(name)
-var name = prompt("100+50");
+console.log("10+5"  +  "tog'ri javob:15")
+ 
+var name = prompt("50-25")
 alert(name)
-var name = prompt('150+150');
+console.log("50-25"  +  "to'g'ri javob:25")
+
+var name = prompt("5*5")
 alert(name)
-var name = prompt('400+100');
+console.log("5*5"  +  "to'g'ri javob:25")
+
+var name = prompt("50/2")
 alert(name)
-var name = prompt('500-100');
+console.log("50/2"  +  "to'g'ri javob:25")
+
+var name = prompt("10%1")
 alert(name)
-var name = prompt('450-50');
-alert(name)
-var name = prompt('300-50');
-alert(name)
-var name = prompt('5*5');
-alert(name)
-var name = prompt('6*6');
-alert(name)
-var name = prompt('7*4');
-alert(name)
-var name = prompt('10/2');
-alert(name)
-var name = prompt('50/2');
-alert(name)
-var name = prompt('100/5');
-alert(name)
-var name = prompt('13%3');
-alert(name)
-var name = prompt('15%7');
-alert(name)
-var name = prompt('17%3');
-alert(name)
+console.log("10%1"  +  "to'g'ri javob:0.01")
